@@ -1,4 +1,4 @@
-## Introduction to lab
+## Introduction to the lab
 
 
 <b>Discipline | <b>Fill your discipline name here
